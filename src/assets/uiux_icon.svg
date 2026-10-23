@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
+  <defs>
+    <linearGradient id="frameGradient" x1="90" y1="24" x2="90" y2="156" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2878FF"/>
+      <stop offset="0.48" stop-color="#7650FF"/>
+      <stop offset="1" stop-color="#D026F5"/>
+    </linearGradient>
+    <linearGradient id="paintGradient" x1="65" y1="65" x2="125" y2="145" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2878FF"/>
+      <stop offset="0.52" stop-color="#7650FF"/>
+      <stop offset="1" stop-color="#D026F5"/>
+    </linearGradient>
+    <linearGradient id="dotGradient" x1="45" y1="38" x2="83" y2="45" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#A6BFFF"/>
+      <stop offset="1" stop-color="#B9A4FF"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(11.70 11.70) scale(0.87)">
+  <rect x="28" y="25" width="124" height="130" rx="13" stroke="url(#frameGradient)" stroke-width="6"/>
+  <path d="M30 51H150" stroke="url(#frameGradient)" stroke-width="6"/>
+  <circle cx="46" cy="38.5" r="5.3" fill="url(#dotGradient)"/>
+  <circle cx="62" cy="38.5" r="5.3" fill="url(#dotGradient)"/>
+  <circle cx="78" cy="38.5" r="5.3" fill="url(#dotGradient)"/>
+  <rect x="43" y="69" width="34" height="25" rx="4" stroke="url(#paintGradient)" stroke-width="5.5"/>
+  <path d="M44 108H76M44 121H64" stroke="url(#paintGradient)" stroke-width="5.5" stroke-linecap="round"/>
+  <path d="M101 106L123 74C128 67 136 65 140 69C144 73 141 81 137 87L115 117L101 106Z" stroke="url(#paintGradient)" stroke-width="5.5" stroke-linejoin="round"/>
+  <path d="M101 106C94 106 89 112 87 119L82 137L99 132C107 130 112 123 115 117" stroke="url(#paintGradient)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M99 108L113 119" stroke="url(#paintGradient)" stroke-width="5.5" stroke-linecap="round"/>
+  </g>
+</svg>

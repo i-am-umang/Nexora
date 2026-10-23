@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180" fill="none">
+  <defs>
+    <linearGradient id="fingerprintGradient" x1="35" y1="35" x2="145" y2="145" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2878FF"/>
+      <stop offset="0.5" stop-color="#6D36FF"/>
+      <stop offset="1" stop-color="#C52BFA"/>
+    </linearGradient>
+  </defs>
+  <g stroke="url(#fingerprintGradient)" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M43 76C43 49 64 29 90 29C116 29 137 49 137 76"/>
+    <path d="M55 79C55 59 70 44 90 44C110 44 125 59 125 79"/>
+    <path d="M68 79C68 67 77 58 90 58C103 58 112 67 112 79"/>
+    <path d="M43 91C43 105 40 117 35 128"/>
+    <path d="M57 91C57 111 53 127 46 141"/>
+    <path d="M71 91C71 115 68 134 61 148"/>
+    <path d="M85 80C85 107 83 130 78 151"/>
+    <path d="M99 80C99 103 98 124 94 143"/>
+    <path d="M113 91C113 110 111 125 107 136"/>
+    <path d="M127 91C127 104 125 115 122 125"/>
+    <path d="M141 91C141 100 140 108 138 115"/>
+  </g>
+</svg>
