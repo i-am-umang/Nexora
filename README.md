@@ -146,7 +146,7 @@ Nexora demonstrates practical frontend development through reusable React compon
 **Umang Agarwal**
 
 - GitHub: [i-am-umang](https://github.com/i-am-umang)
-
+Hosted live link: https://nexora-nz1l.onrender.com
 ---
 
 If you find this project useful or inspiring, feel free to explore the code and share feedback.
